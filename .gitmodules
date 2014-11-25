@@ -1,6 +1,6 @@
 [submodule "Frameworks/KIF"]
 	path = Frameworks/KIF
-	url = git@github.com:square/KIF.git
+	url = git@github.com/kif-framework/KIF.git
 [submodule "Frameworks/CocoaLumberjack"]
 	path = Frameworks/CocoaLumberjack
 	url = git@github.com:robbiehanson/CocoaLumberjack.git

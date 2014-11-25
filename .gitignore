@@ -3,4 +3,4 @@ build
 Xcode_build
 .DS_Store
 xcuserdata
-.xccheckout
+*.xccheckout
